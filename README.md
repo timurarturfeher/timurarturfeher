@@ -7,7 +7,7 @@
 
 - 👯 I’m collaborating on [KočkoCraft.eu](https://kockocraft.eu)
 
-- 🤝 I’m (mostly) active on [Pohoda Komunita](https://discord.patrikkostka.eu/)
+- 🤝 I’m (mostly) active on [X.com](https://x.com/timurartur_lol)
 
 - 💬 Ask me about **PHP**
 
