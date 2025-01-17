@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Java, C, Haskell**
 
-- 👯 I’m collaborating on [KočkoCraft.eu](https://kockocraft.eu)
+- 👯 I’m collaborating on **Hidden project**
 
-- 🤝 I’m (mostly) active on [X.com](https://x.com/timurartur_lol)
+- 🤝 I’m (mostly) active on [Bluecat's kittens](https://discord.gg/bluecat201)
 
 - 💬 Ask me about **PHP**
 
