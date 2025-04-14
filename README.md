@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
 <h3 align="center">Alcoholic and cat lover</h3>
 
-- 🔭 I’m currently working on [sidet.eu](https://sidet.eu)
+- 🔭 I’m currently working on [sidet.eu](https://sidet.eu) and [Oskarko](https://sidet.eu/c_discord) Discord bot
 
-- 🌱 I’m currently learning **Java, C**
+- 🌱 I’m currently learning **Java, C++, React**
 
 - 👯 I’m collaborating on **Hidden project**
 
-- 🤝 I’m (mostly) active on [Bluecat's kittens](https://discord.gg/bluecat201)
+- 🤝 I’m (mostly) active on [Blueshock Oasis](https://discord.gg/blueshock)
 
 - 💬 Ask me about **PHP**
 
