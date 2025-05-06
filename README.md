@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
 <h3 align="center">Alcoholic and cat lover</h3>
 
-- 🔭 I’m currently working on [sidet.eu](https://sidet.eu) and [Oskarko](https://sidet.eu/c_discord) Discord bot
+- 🔭 I’m currently working on [sidet.eu](https://sidet.eu), [Oskarko](https://sidet.eu/c_discord) Discord bot and [Childe](https://github.com/bluecat201/Childe)
 
 - 🌱 I’m currently learning **Java, C++, React**
 
